@@ -5495,7 +5495,7 @@ a.close.disabled {
 
 .modal-body {
   position: relative;
-  flex: 1 1 auto;
+  flex: 2 1 auto;
   padding: 4rem 1rem;
 }
 
